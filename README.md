@@ -33,6 +33,6 @@ npm run dev
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) com o seu navegador.
 
-## Autor:
+## Autor
 
 Matheus de Souza Carvalho
