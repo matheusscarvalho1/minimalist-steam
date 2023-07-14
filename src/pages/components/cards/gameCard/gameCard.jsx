@@ -6,7 +6,7 @@ import styles from './gameCard.module.css'
 export default function gameCard () {
     return(
         <div className={styles.gamecard}>
-            <Image src='/products/counter-strike.jpg' width={300} height={145}/>
+            <Image className={styles.image} src='/products/counter-strike.jpg' width={300} height={145}/>
             <div className={styles.info}>
                 <h3 className={styles.info}>Counter Strike: Global Offensive</h3>
                 <p className={styles.category}>Ação, estratégia, multijogador.</p>

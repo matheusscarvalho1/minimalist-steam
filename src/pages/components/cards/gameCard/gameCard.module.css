@@ -9,6 +9,7 @@
     flex: 1; /*Maximo de espaço do flex*/
     display: flex;
     flex-direction: column;
+    gap: 10px;
 
 }
 
@@ -38,4 +39,20 @@
 .price {
     color: #BEEB14;
     font-size: 32px;
+}
+
+@media (max-width: 700px) {
+    .image {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+
+    .gamecard {
+        flex-direction: column;
+    }
+
+    .pricing {
+    flex-direction: column;
+}
 }
