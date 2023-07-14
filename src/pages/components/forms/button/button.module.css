@@ -6,6 +6,7 @@
     font-weight: 700;
     color: white;
     text-decoration: uppercase;
+    cursor: pointer;
 }
 
 .button:hover {
