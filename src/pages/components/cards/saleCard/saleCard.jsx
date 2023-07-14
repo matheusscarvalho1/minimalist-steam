@@ -16,7 +16,7 @@ export default function SaleCard () {
                 <h4 className={styles.discountprice}>R$89,90</h4>
             </div>
             </div>
-            <Button>Compre agora</Button>
+            <Button fullWidth>Compre agora</Button>
             </div>
         </div>
     )
