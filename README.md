@@ -1,8 +1,6 @@
 ## Sobre
 
-Esse projeto foi construído para fins didáticos no evento Semana da Evolução na Programação.
-
-Esta é a base para o projeto, com todas as imagens necessárias.
+Esse projeto foi construído para fins didáticos.
 
 ## Tecnologias
 
@@ -33,6 +31,16 @@ npm run dev
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) com o seu navegador.
 
+
+
 ## Autor
 
-Matheus de Souza Carvalho
+<b>Matheus de Souza Carvalho</b>
+
+
+Linkedin: 
+https://www.linkedin.com/in/matheusscarvalho/
+
+
+E-mail:
+matheusdocarvalho@gmail.com
