@@ -1,6 +1,6 @@
 ## Sobre
 
-Esse projeto foi construído para fins didáticos, consiste na idéia de fazer uma página web minimalista da steam, um software de gestão de direitos digitais, plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.
+Esse projeto foi construído para fins didáticos, consiste na idéia de fazer uma página web minimalista da steam, um software de gestão de direitos digitais, plataformas digitais como jogos, entre outros.
 
 ## Tecnologias
 
