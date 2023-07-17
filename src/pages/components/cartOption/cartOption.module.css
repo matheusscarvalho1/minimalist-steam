@@ -28,3 +28,7 @@ color: #BEEB14;
     cursor: pointer;
 
 }
+
+.image {
+    object-fit: contain;
+}

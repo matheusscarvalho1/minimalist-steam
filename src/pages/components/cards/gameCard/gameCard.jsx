@@ -3,7 +3,7 @@ import Button from '@/pages/components/forms/button/button'
 
 import styles from './gameCard.module.css'
 
-export default function gameCard () {
+export default function gameCard ({ onAdd }) {
     return(
         <div className={styles.gamecard}>
             <Image className={styles.image} src='/products/counter-strike.jpg' width={300} height={145}/>
@@ -12,7 +12,7 @@ export default function gameCard () {
                 <p className={styles.category}>Ação, estratégia, multijogador.</p>
                 <div className={styles.pricing}>
                     <h2 className={styles.price}>99,90</h2>
-                    <Button>Adicionar ao Carrinho</Button>
+                    <Button onClick={onAdd}>Adicionar ao Carrinho</Button>
 
                 </div>
             </div>
