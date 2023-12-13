@@ -26,7 +26,7 @@ npm i
 Para rodar o projeto:
 
 ```bash
-npm run dev
+npm start
 ```
 
 Depois, é só abrir [http://localhost:3000](http://localhost:3000) com o seu navegador.
