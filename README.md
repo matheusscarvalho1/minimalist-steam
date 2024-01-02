@@ -1,4 +1,5 @@
-## Sobre
+## Projeto Steam Minimalista
+![image](https://github.com/matheusscarvalho1/minimalist-steam/assets/73304785/87a19c8c-386e-4ad2-b402-ee405b507db8)
 
 Esse projeto foi construído para fins didáticos, consiste na idéia de fazer uma página web minimalista da steam, um software de gestão de direitos digitais, plataformas digitais como jogos, entre outros.
 
